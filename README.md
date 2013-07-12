@@ -1,6 +1,6 @@
 # Big
 
-Big is a next generation application "framework" which solves the domain problem of building applications for the web.
+Big is a next generation application "framework" which enables the rapid development of robust applications.
 
  - No more writing interface code
  - No more writing API boilerplate
